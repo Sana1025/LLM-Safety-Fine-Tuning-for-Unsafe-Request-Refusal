@@ -1,4 +1,4 @@
-# LLM Attack Evaluation Pipeline
+# LLM Safety Fine Tuning for Unsafe Request Refusal
 
 A structured framework to evaluate how Large Language Models (LLMs) respond to **adversarial prompts**, measure **attack success rates**, and analyze **failure mechanisms**.
 
